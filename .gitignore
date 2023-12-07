@@ -162,3 +162,7 @@ cython_debug/
 # ignore the input_data/ folder because of file size restrictions
 input_data/*.parquet
 input_data/*.csv
+
+# ignore the output_data/ folder because of file size restrictions
+output_data/*.parquet
+output_data/*.csv
